@@ -1,0 +1,5 @@
+Navbar:
+	background-colour: #123456
+	background-image: linear-gradient(180deg,#126536 10%,#144326)
+
+Primary Colours: rgba(18,101,54,x) where "x=transparency"
